@@ -1,0 +1,243 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+nav {
+    float: left;
+    width: 100%;
+    height: 20px;
+    text-align: center;
+    color: white;
+    font-variant: small-caps;
+
+background-color: aquamarine;
+}
+.main {
+    font-family: tahoma;
+    max-width:1350px;
+    margin:0 auto;
+height: 100%;
+}
+body {
+    position: relative;
+}
+ 
+.banner {
+    height: 150px;
+    padding: bottom 5px;%;
+    background-image: url("../asm1/banner.png");
+    background-size: 100% 100%;
+}
+img {
+margin-bottom: 10px;
+}
+.menu {
+    line-height: 40px;
+    background-color: lightskyblue;
+        text-align: center;
+        color: white;
+        font-variant: small-caps;
+}
+.menu a {
+   font-size: large;
+    color: white;
+    margin:0 10px;
+    text-decoration:none;
+    
+}
+.menu a:hover {
+    color: red;
+}
+.w {
+    float: left;
+}
+footer{
+    margin-top: 50px;
+    height: 200px;
+    width:1350px;
+    text-align: center;
+}
+.kho2 img {
+    position:absolute ;
+  top: 600px;  
+}
+.kho2 a{
+    float: left;
+    font-size: large;
+    line-height: 25px;
+
+}
+.timkiem {
+    border: 1px solid ;
+    border-radius: 5px;
+}
+button {
+    background-color:   white;
+}
+marquee {
+    font-size: larger;
+    line-height: 40px;
+    padding-top: 100px;
+    float: left;
+}
+.cuoi {
+    padding-top: 50px;
+text-align: center;
+    color: black;
+}
+.kho1 {
+    height: 100px;
+}
+.kho1 img {
+    height: 50px;
+}
+.bangtin {
+    padding-top: 150px;
+    width: 500px;
+    height: 200px;
+
+}
+.bangtin img {
+    height: 300px;
+}
+.bangtin h3 {
+    background-color: gray;
+    position: absolute;
+    top: 600px;
+width: 535px;
+height: 50px;
+}
+.thongbao {
+    padding-top: 50px;
+    position:absolute ;
+    top: 200px;
+right: 0px;
+  text-align: right;
+text-align: center;
+}
+.thongbao :hover{
+    color: red;
+}
+.thongbao h3 {
+    line-height: 25px;
+    width: 300px;
+    height: 50px;
+    background-color: gray;
+    padding-top: 6px;
+    border: 1px solid gray;
+    border-radius: 5px ;
+}
+.thongbao a {
+    color:black;
+}
+.thongbao li {
+    text-align: left;
+    width: 300px;
+    height: 80px;
+}
+.kho3 {
+    padding-top: 30px;
+}
+iframe {
+    width: 550px;
+    height: 300px;
+}
+.kho2 {
+    width: 400px;
+    height: 300px;
+    position:absolute ;
+    left: 30px;
+    top:550px;
+}
+.menu2 {
+    padding-top: 100px;
+}
+.menu2 a {
+    margin: 0px 10px ;
+}
+.chaomung {
+    width: 942px;
+    height: 140px;
+    padding-top: 500px;
+}
+.bannercompany {
+    padding-top: 70px;
+    position:absolute ;
+    right: 0px;
+}
+.middle  {
+    border-radius: 3px gray;
+    
+}
+.middle2 {
+    position:absolute ;
+    right: 320px;
+    top: 312px;
+}
+.middle1 {
+    position:absolute ;
+    right: 320px;
+    top: 248px;
+}
+.thpt {
+    width: 544px;
+    padding-left: 570px;
+    padding-top: 30px;
+    position:absolute ;
+    right: 20px;
+    top:1200px;
+}
+.thpt img {
+    width: 544px;
+height: 296px;
+}
+.drop {
+    background-color: lightskyblue;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .drop {
+    background-color: black;
+  }
+  .dropdown a {
+      border: 1px solid;
+      border-radius: 3px;
+  }
+  .dangky1 {
+      position:absolute ;
+      right: 70px;
+      top: 10px;
+      color: white;
+  }
+
